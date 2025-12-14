@@ -2,10 +2,9 @@ Newsphere — API README
 Awesome — here’s a clean, practical README you can drop into your Newsphere (React) app repo to document the backend API. It covers endpoints, auth, examples (fetch/axios), env variables, running & deployment notes, error handling, and tips for testing. Copy-paste and tweak to match your actual implementation.
 
 
-```
+
 Newsphere API
 Simple REST API that serves news articles & sources to the Newsphere React frontend.
-
 
 
 Base URL (example)
@@ -294,4 +293,5 @@ GET /api/articles
 GET /api/articles/:id
 
 GET /api/top-headlines
+
 
